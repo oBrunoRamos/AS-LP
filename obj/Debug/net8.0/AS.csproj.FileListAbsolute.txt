@@ -1,0 +1,14 @@
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.AssemblyInfoInputs.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.AssemblyInfo.cs
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.csproj.CoreCompileInputs.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\bin\Debug\net8.0\AS.exe
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\bin\Debug\net8.0\AS.deps.json
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\bin\Debug\net8.0\AS.runtimeconfig.json
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\bin\Debug\net8.0\AS.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\bin\Debug\net8.0\AS.pdb
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\refint\AS.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.pdb
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\AS.genruntimeconfig.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\3_Provas\AS\obj\Debug\net8.0\ref\AS.dll
